@@ -8,7 +8,7 @@ This project requires both the jupyter notebook as well as the `CSV` file to run
 
 ### Prerequisites
 
-To run this project, you will need `Jupyter Notebooks` with a python 3 kernel to be installed on your machine. Instructions on how to install `Jupyter Notebooks` can be found on the [Jupyter website](https://jupyter.org/install) The project itself is written in Python 3 and uses the modules `Numpy` and `Pandas` to run.
+To run this project, you will need `Jupyter Notebooks` with a python 3 kernel to be installed on your machine. Instructions on how to install `Jupyter Notebooks` can be found on the [Jupyter website](https://jupyter.org/install) The project itself is written in Python 3 and uses the modules `Numpy` and `Pandas` and matplotlib to run. These can be installed by running `pip install <name of module>` in the console
 
 
 
